@@ -4,6 +4,8 @@ A simple self-hosted start-page template
 
 ![screenshot](https://raw.githubusercontent.com/flipcoder/orbs/master/screenshot.png)
 
+[View Example Page](http://flipcoder.github.io/orbs)
+
 ## Instructions
 
 - Clone the repo
